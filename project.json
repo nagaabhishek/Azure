@@ -38,7 +38,13 @@
     "processOptions": {
       "ignoredFiles": []
     },
-    "fileInfoCollection": [],
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "a366bc4b-c735-4402-a551-bb5fb0c36e64",
+        "fileName": "TestCase.xaml"
+      }
+    ],
     "modernBehavior": false
   },
   "expressionLanguage": "VisualBasic",
@@ -46,12 +52,6 @@
     {
       "filePath": "Main.xaml",
       "uniqueId": "6b138182-9438-4c8d-b76c-bde147f877e4",
-      "input": [],
-      "output": []
-    },
-    {
-      "filePath": "TestCase.xaml",
-      "uniqueId": "30343fa5-b1e2-442b-b3c7-c848b9e4839e",
       "input": [],
       "output": []
     }
